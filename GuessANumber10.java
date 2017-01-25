@@ -20,7 +20,7 @@ import java.util.Scanner;
  * too low, guess again: 7
  * too low, guess again: 8
  * you got it
- * you have played 1 time(s)
+ * it took 7 guess(es)
  * would you like to play again? (y/n) n
  *
  *
