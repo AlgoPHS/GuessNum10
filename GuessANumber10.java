@@ -20,13 +20,13 @@ import java.util.Scanner;
  * too low, guess again: 7
  * too low, guess again: 8
  * you got it
- * it took 7 guess(es)
+ * you have played 1 time(s)
  * would you like to play again? (y/n) n
  *
  *
  ******************************************************************************/
 
-public class JR_AW_GuessANumber {
+public class GuessANumber10 {
 
     private static Scanner sc;
 
